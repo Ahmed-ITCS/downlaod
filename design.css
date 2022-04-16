@@ -1,0 +1,48 @@
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: white;
+    text-decoration: white;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+.text{
+	background-color: black;
+        color: white;
+}
+.pic{
+	text-align:center;
+        background-color:black;
+       
+	
+}
+.p{
+	align-self : center;
+        background-color:black;
+        color: white;
+}
+.table{
+	color: black;
+	text-align:center;
+	background-color: white;
+}
+.edu{
+	color: white;
+	background-color: black;
+}
+.social{
+	text-align:center;
+	background-color: white;
+	font-size: 42px;
+}
+a{
+	color:green;
+}
+.btn{
+background-color:black;
+width : 500px;
+height: 100px;
+font-size: 50px;
+margin : auto;
+
+}
+

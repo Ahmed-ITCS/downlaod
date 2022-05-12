@@ -6,7 +6,7 @@
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
 }
 .text{
-	background-color: black;
+	background-color: ;
         color: white;
 }
 .tit
@@ -21,7 +21,7 @@
 }
 .p{
 	align-self : center;
-        background-color:black;
+        background-color:white;
         color: white;
 }
 .table{
